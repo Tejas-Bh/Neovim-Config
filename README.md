@@ -5,4 +5,3 @@ This is my neovim config. This is modified from [LunarVim/Neovim-from-scratch](h
 Dependencies:
 - Neovim (0.6.0)
 
-Thank You!
